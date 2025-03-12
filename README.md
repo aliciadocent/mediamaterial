@@ -10,14 +10,12 @@
 
 #### Variabelen
 - [Hello Naam](variabelen/HelloName)
-- [Let it NOT go!](variabelen/LetItNotGo)
 - [Rekensom](variabelen/Rekensom)
 - [Webwinkel Bearly There](variabelen/BearlyThere)
 
 #### If/else switch statements
 - [Jij bent oud!](keuzestructuren/YouAreOld)
 - [The Name of the Game](keuzestructuren/TheNameOfTheGame)
-- [Rock 'n Code!](keuzestructuren/RockNCode)
 - [Spooky](keuzestructuren/Spooky)
 - [Keuzestress met eten](keuzestructuren/Keuzestress)
 
