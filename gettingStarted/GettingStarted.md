@@ -22,4 +22,4 @@ Zorg ervoor dat aan het index.html de style.css en main.js is gekoppeld. Wanneer
 - Alert [w3schools](https://www.w3schools.com/jsref/met_win_alert.asp)
 - HTML script src Attribute [w3schools](https://www.w3schools.com/tags/att_script_src.asp)
 - HTML link tag [w3schools](https://www.w3schools.com/tags/tag_link.asp)
-	
+- HTML defer [w3schools](https://www.w3schools.com/tags/att_script_defer.asp)
