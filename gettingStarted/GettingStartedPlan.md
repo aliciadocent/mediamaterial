@@ -22,7 +22,7 @@ Een wireframe is een visuele schets van je applicatie. Begin eenvoudig:
 
 Dit stelt de interface voor waar de gebruiker interactie mee heeft.
 
-![Sjabloon](images/opzet-project-wireframe.png)
+![Sjabloon](images/opzet-project-wireframe.jpg)
 
 ## Stap 2: Scenario schrijven
 Een scenario beschrijft wat de gebruiker (actor) doet en hoe het systeem reageert.
