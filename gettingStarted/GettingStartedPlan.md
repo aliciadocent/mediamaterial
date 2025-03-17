@@ -31,28 +31,28 @@ Een scenario beschrijft wat de gebruiker (actor) doet en hoe het systeem reageer
 - Actor: Gebruiker klikt op de knop.
 - Systeem: Er verschijnt een alert met de tekst "hallo". Na 3 klikken verandert de alert in "super hallo".
 
-![Sjabloon](images/opzet-project-scenario.png)
+![Sjabloon](images/opzet-project-scenario.jpg)
 
 ## Stap 3: Elements (DOM)
 Maak een lijst van de HTML-elementen die je gaat gebruiken:
 - MyButton (de click button)
 
-![Sjabloon](images/opzet-project-elements.png)
+![Sjabloon](images/opzet-project-elements.jpg)
 
 ## Stap 4: Variabelen definiëren
 Identificeer de gegevens die je wilt bijhouden:
 - count (aantal keer dat de knop is ingedrukt)
 
-![Sjabloon](images/opzet-project-variables.png)
+![Sjabloon](images/opzet-project-variables.jpg)
 
 ## Stap 5: Events
 Noteer welke events je gebruikt en waar je die koppelt:
 - Click-event: gekoppeld aan de button
 
-![Sjabloon](images/opzet-project-events.png)
+![Sjabloon](images/opzet-project-events.jpg)
 
 ## Stap 6: Functions
 Noteer welke functions je gebruikt en aan welk event je deze koppelt:
 - handleButton: gekoppeld aan het click-event
 
-![Sjabloon](images/opzet-project-functions.png)
+![Sjabloon](images/opzet-project-functions.jpg)
