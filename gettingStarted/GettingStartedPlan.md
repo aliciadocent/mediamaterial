@@ -55,4 +55,4 @@ Noteer welke events je gebruikt en waar je die koppelt:
 Noteer welke functions je gebruikt en aan welk event je deze koppelt:
 - handleButton: gekoppeld aan het click-event
 
-![Sjabloon](images/opzet-project-functions.jpg)
+![Sjabloon](images/opzet-project-functions.jpg) 
